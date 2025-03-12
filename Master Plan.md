@@ -92,19 +92,26 @@ INTERSUME is an AI-powered platform designed to help job seekers optimize their 
 - **Data Privacy**: Ensure GDPR compliance for user data protection.
 
 ## Development Phases
-### Phase 1: MVP Development
+### Phase 1: Building UI/UX (Frontend)
+- Design and develop the user interface using React.js.
+- Create intuitive navigation and responsive layouts.
+- Implement resume upload functionality.
+- Develop job description selection UI.
+- Basic integration of frontend with mock API responses.
+
+### Phase 2: MVP Development
 - User authentication & profile management
 - Resume upload & job selection
 - Basic resume analysis & ATS scoring
 - Basic AI mock interview with predefined questions
 
-### Phase 2: Advanced Features
+### Phase 3: Advanced Features
 - AI-driven adaptive mock interview
 - Detailed ATS report with formatting analysis
 - Course recommendations based on missing skills
 - Dashboard for progress tracking
 
-### Phase 3: Scalability & Enhancements
+### Phase 4: Scalability & Enhancements
 - Advanced AI & NLP enhancements
 - Support for video-based interview assessments
 - More job descriptions & dynamic industry-specific resume checks
@@ -130,6 +137,5 @@ INTERSUME is an AI-powered platform designed to help job seekers optimize their 
 - Developing a **mobile app** for a broader reach.
 
 ---
-### Next Steps
-Amaan, take a look at this blueprint and let me know if there’s anything you’d like to modify or expand upon. 🚀
+
 
